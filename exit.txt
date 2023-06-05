@@ -1,0 +1,99 @@
+Cycle 2: An error has occurred: unexpected object or no object
+0 details left in I0
+1 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
+Cycle 1: An error has occurred: unexpected object or no object
+1 details left in I0
+8 details left in I3
+0 products were produced
+
+Cycle 2: An error has occurred: unexpected object or no object
+0 details left in I0
+7 details left in I3
+1 products were produced
+
+0 details left in I0
+7 details left in I3
+2 products were produced
+
+2 details left in I0
+0 details left in I3
+1 products were produced
+
+0 details left in I0
+14 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+0 products were produced
+
+0 details left in I0
+0 details left in I3
+0 products were produced
+
+0 details left in I0
+14 details left in I3
+1 products were produced
+
+Cycle 1: An error has occurred: unexpected object or no object
+0 details left in I0
+14 details left in I3
+0 products were produced
+
+0 details left in I0
+15 details left in I3
+0 products were produced
+
+0 details left in I0
+15 details left in I3
+0 products were produced
+
+-7 details left in I0
+15 details left in I3
+0 products were produced
+
+Cycle 1: An error has occurred: unexpected object or no object
+1 details left in I0
+8 details left in I3
+0 products were produced
+
+Cycle 1: An error has occurred: unexpected object or no object
+1 details left in I0
+8 details left in I3
+0 products were produced
+
+0 details left in I0
+14 details left in I3
+1 products were produced
+
+Cycle 1: An error has occurred: unexpected object or no object
+0 details left in I0
+14 details left in I3
+0 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
+0 details left in I0
+0 details left in I3
+1 products were produced
+
